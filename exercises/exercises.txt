@@ -9,9 +9,12 @@ https://nbviewer.jupyter.org/github/3ki5tj/python-class/blob/main/exercises/chic
 习题3：身份证号码验证程序
 https://nbviewer.jupyter.org/github/3ki5tj/python-class/blob/main/exercises/identification_number.ipynb?flush_cache=true
 
-习题4：证反欧拉猜想：史上最短的数学论文之一
-（编程优化技巧）
+习题4：欧拉猜想的反例：史上最短的数学论文之一
+（练习编程优化技巧）
 https://nbviewer.jupyter.org/github/3ki5tj/python-class/blob/main/exercises/eulers_conjecture.ipynb?flush_cache=true
+
+习题5：本福特自动机：理解动力学系统
+https://nbviewer.jupyter.org/github/3ki5tj/python-class/blob/main/exercises/benford_automaton.ipynb?flush_cache=true
 
 
 习题1答案
@@ -25,3 +28,6 @@ https://nbviewer.jupyter.org/github/3ki5tj/python-class/blob/main/exercises/iden
 
 习题4答案：
 https://nbviewer.jupyter.org/github/3ki5tj/python-class/blob/main/exercises/eulers_conjecture_answer.ipynb?flush_cache=true
+
+习题5答案：
+https://nbviewer.jupyter.org/github/3ki5tj/python-class/blob/main/exercises/benford_automaton_answer.ipynb?flush_cache=true
