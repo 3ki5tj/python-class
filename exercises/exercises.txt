@@ -10,7 +10,7 @@ https://nbviewer.jupyter.org/github/3ki5tj/python-class/blob/main/exercises/chic
 https://nbviewer.jupyter.org/github/3ki5tj/python-class/blob/main/exercises/identification_number.ipynb?flush_cache=true
 
 习题4：欧拉猜想的反例：史上最短的数学论文之一
-（练习编程优化技巧）
+（介绍一些编程优化技巧）
 https://nbviewer.jupyter.org/github/3ki5tj/python-class/blob/main/exercises/eulers_conjecture.ipynb?flush_cache=true
 
 习题5：本福特自动机：理解动力学系统
