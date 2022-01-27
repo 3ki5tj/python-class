@@ -19,7 +19,6 @@ https://nbviewer.jupyter.org/github/3ki5tj/python-class/blob/main/exercises/benf
 习题6：用动态规划计算最速降线
 https://nbviewer.jupyter.org/github/3ki5tj/python-class/blob/main/exercises/brachistochrone.ipynb?flush_cache=true
 
-
 习题1答案
 https://nbviewer.jupyter.org/github/3ki5tj/python-class/blob/main/exercises/fibonacci_formula_answer.ipynb?flush_cache=true
 
